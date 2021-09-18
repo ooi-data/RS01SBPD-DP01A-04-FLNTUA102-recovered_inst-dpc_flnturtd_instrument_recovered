@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPD-DP01A-04-FLNTUA102-recovered_inst-dpc_flnturtd_instrument_recovered
 data_stream: RS01SBPD-DP01A-04-FLNTUA102-recovered_inst-dpc_flnturtd_instrument_recovered
-end_date: '2020-09-16T18:15:16.721Z'
-last_updated: '2021-04-02T04:28:44.086784'
+end_date: '2021-09-03T17:57:31.856Z'
+last_updated: '2021-09-18T02:02:14.716936Z'
 start_date: '2018-07-25T13:08:42.492Z'
-status: success
+status: pending
